@@ -1,7 +1,7 @@
 # Meteo Data Pipeline
 Pipeline de récupération et d’enrichissement des données météo via l’API Météo-France.
 
-# Fonctionnalités
+## Fonctionnalités
 - Récupération des stations météo (France entière)
 - Téléchargement des données quotidiennes (CSV)
 - Gestion des erreurs et retries API
@@ -18,7 +18,6 @@ Pipeline de récupération et d’enrichissement des données météo via l’AP
 - OpenStreetMap (Nominatim)
 
 ## Structure
-
 ```text
 API Météo-France
 → récupération stations
